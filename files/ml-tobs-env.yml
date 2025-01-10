@@ -1,0 +1,15 @@
+name: ml-tobs-env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scipy
+  - scikit-learn
+  - os 
+  - time
+  - tensorflow 
